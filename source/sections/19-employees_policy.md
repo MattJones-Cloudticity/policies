@@ -45,6 +45,7 @@ Cloudticity is committed to ensuring all workforce members actively address secu
 13. Employees are required to cooperate with federal and state investigations.
     * Employees must not interfere with investigations through willful misrepresentation, omission of facts, or by the use of threats against any person.
     * Employees found to be in violation of this policy will be subject to sanctions as described in [§5.3.3](05-roles_policy.md#533-sanctions-of-workforce-responsibilities).
+14. The organization conducts background checks before hiring workforce members.  These checks include an independent identity check, criminal history, and bankruptcy history.  Candidates are informed about the background checks and sign a release form.  These checks are conducted by either the CEO or the COO through an independent agency in accordance with any appropriate legislation.  In addition, workforce members are screened for eligibility to work in the U.S. during their first week of employment.
 
 ## 19.3 Issue Escalation
 
