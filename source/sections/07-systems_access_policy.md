@@ -37,7 +37,7 @@ Access to Cloudticity systems and applications is limited for all users, includi
 ## 7.2 Access Establishment and Modification
 
 1. Requests for access to the Cloudticity Oxygen managed services platform systems and applications are made during the employee onboarding process or formally using the following process:
-   1. The Cloudticity workforce member, or their manager, initiates the access request by creating a task in the Teamwork project: Compliance Review Activity (CRA).
+   1. The Cloudticity workforce member, or their manager, initiates the access request by creating a task in the Teamwork project "Cloudticity - Compliance".
       * User identities must be verified prior to granting access to new accounts.
       * Identity verification must be done in person where possible; for remote employees, identities must be verified over the phone.
       * For new accounts, the method used to verify the user's identity must be recorded on the task.
@@ -51,7 +51,7 @@ Access to Cloudticity systems and applications is limited for all users, includi
 2. Access is not granted until receipt, review, and approval by the Cloudticity Security Officer;
 3. The request for access is retained for future reference.
 4. All access to Cloudticity systems and services are reviewed and updated on a quarterly basis to assure proper authorizations are in place commensurate with job functions. The process for conducting reviews is outlined below:
-   1. The Security Officer initiates the review of user access by creating a task in the Teamwork project: Compliance Review Activity (CRA).
+   1. The Security Officer initiates the review of user access by creating a task in the Teamwork project "Cloudticity - Compliance".
    2. The Security Officer, or a Privacy Officer, is assigned to review levels of access for each Cloudticity workforce member.
    3. If user access is found during review that is not in line with the least privilege principle, the process below is used to modify user access and notify the user of access changes. Once those steps are completed, the access is then reviewed again.
    4. Once the review is complete, the Security Officer approves or rejects the task. If the task is rejected, it goes back for further review and documentation.

@@ -57,7 +57,7 @@ Security incidents, particularly those involving ePHI, are handled using the pro
 
 It is the duty of the CEO to follow the process outlined below:
 
-1. Create a private task in the Teamwork project: Compliance Review Activity (CRA).
+1. Create a private task in the Teamwork project "Cloudticity - Compliance".
 2. The task is investigated, documented, and, when a conclusion or remediation is reached, it is assigned to another workforce member for review.
 3. The task is reviewed by the other workforce member. If the task is rejected, it goes back for further evaluation and review.
 4. If the task is approved, it is marked as Complete, adding any pertinent notes required.
