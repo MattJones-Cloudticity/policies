@@ -1,6 +1,6 @@
 # 1. Introduction
 
-Cloudticity, LLC. ("Cloudticity") is committed to ensuring the confidentiality, privacy, integrity, and availability of all electronic protected health information (ePHI) it receives, maintains, processes and/or transmits on behalf of its customers. As providers of compliant, hosted infrastructure used by health technology vendors, developers, designers, agencies, custom development shops, and enterprises, Cloudticity strives to maintain compliance, proactively address information security, mitigate risk for its customers, and assure known breaches are completely and effectively communicated in a timely manner. The following documents address core policies used by Cloudticity to maintain compliance and assure the proper protections of infrastructure used to store, process, and transmit ePHI for Cloudticity customers.
+Cloudticity, LLC. ("Cloudticity") is committed to ensuring the confidentiality, privacy, integrity, and availability of all electronic protected health information (ePHI) it receives, maintains, processes and/or transmits on behalf of its customers. As providers of compliant, hosted infrastructure used by health technology vendors, developers, designers, agencies, custom development shops, and enterprises, Cloudticity strives to maintain compliance, proactively address information security, mitigate risk for its customers, and assure known breaches are completely and effectively communicated in a timely manner. Legal advice is sought in relation to all relevant regulations and compliance with all relevant regulations is reviewed on an annual basis at a minimum.  The following documents address core policies used by Cloudticity to maintain compliance and assure the proper protections of infrastructure used to store, process, and transmit ePHI for Cloudticity customers.
 
 Cloudticity provides secure and compliant cloud-based software. This hosted software falls into two broad categories: 1) **Platform as a Service (PaaS)** and 2) **Platform Add-ons**. These categories are cited throughout Cloudticity's polices, as customers in each category inherit different policies, procedures, and obligations from Cloudticity.
 
@@ -48,7 +48,7 @@ The OpenVPN appliance and Wordpress web servers are externally facing and access
 
 All platform add-ons and operating systems are tested end-to-end for usability, security, and impact prior to deployment to production.
 
-## 1.5 Requesting Audit and Compliance Reports
+## 1.5 Requesting Audit and Compliance Reports and Release of Information
 
 Cloudticity, at its sole discretion, shares audit reports, including its HITRUST reports and Corrective Action Plans (CAPs), with customers on a case by case basis. All audit reports are shared under explicit NDA in Cloudticity format between Cloudticity and party to receive materials. Audit reports can be requested by Cloudticity workforce members for customers or directly by Cloudticity customers.
 
@@ -59,6 +59,8 @@ The following process is used to request audit reports:
 3. Cloudticity will confirm if a current NDA is in place with the party requesting the audit report. If there is no NDA in place, Cloudticity will send one for execution.
 4. Once it has been confirmed that an NDA is executed, the Cloudticity Security Officer or Privacy Officer must approve or reject the request. If the request is rejected, Cloudticity will notify the requesting party that we cannot share the requested report and solve the Zendesk ticket.
 4. If the request is approved, Cloudticity will send the customer the requested audit report and solve the Zendesk ticket.
+
+Cloudticity ensures the release of information is formally approved before being made publicly available, all input provided from outside a public system is verified and approved, and the source (authorship) of publicly available information is stated.
 
 ## 1.6 Version Control
 
