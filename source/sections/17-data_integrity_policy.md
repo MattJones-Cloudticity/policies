@@ -47,7 +47,7 @@ Production systems that create, receive, store, or transmit customer data (herea
 ## 17.7 Production System Security
 
 1. System, network, and server security is managed and maintained by a Senior AWS Engineer and the Security Officer.
-2. Up to date system lists and architecture diagrams are kept for all production environments.
+2. Up to date system lists and architecture diagrams are kept for all production environments. A current network diagram exists and is updated whenever there are network changes and no less than every six months.
 3. Access to production systems is controlled using centralized tools and two-factor authentication.
 
 ## 17.8 Production Data Security

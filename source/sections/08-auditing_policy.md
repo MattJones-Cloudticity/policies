@@ -79,7 +79,7 @@ It is the policy of Cloudticity to safeguard the confidentiality, integrity, and
 ## 8.4 Review and Reporting of Audit Findings
 
 1. Audit information that is routinely gathered must be reviewed in a timely manner by the responsible workforce member(s). On a quarterly basis, logs are reviewed to assure the proper data is being captured and retained. The following process details how log reviews are done at Cloudticity:
-  1. The log review is initiated by a recurring task in the Teamwork project: Compliance Review Activity (CRA).
+  1. The log review is initiated by a recurring task in the Teamwork project "Cloudticity - Compliance".
   2. The Security Officer, or a Cloudticity Security Engineer assigned by the Security Officer, is assigned to review the logs.
   3. Relevant audit log findings are added to the task; these findings are investigated in a later step. Once those steps are completed, the task is then reviewed again.
   4. Once the review is complete, the Security Officer approves or rejects the task. Relevant findings are reviewed at this stage. If the task is rejected, it goes back for further review and documentation. The communications protocol around specific findings are outlined below.
