@@ -39,3 +39,4 @@ Cloudticity makes every effort to assure all 3rd party organizations are complia
 10. Any changes to partner and subcontractor services and systems are reviewed before implementation, when possible.
 11. For all partners, Cloudticity reviews activity annually to assure partners are in line with SLAs in contracts with Cloudticity.
 12. SLA review is monitored on a quarterly basis using Teamwork reporting to assess compliance with above policy.
+13. Cloudticity regularly enters into Mutual Non-Disclosure contracts with 3rd parties.  Requirements for confidentiality and non-disclosure agreements are reviewed at least annually and when changes occur that influence these requirements, such as applicable laws and regulations for the jurisdiction to which they apply.
