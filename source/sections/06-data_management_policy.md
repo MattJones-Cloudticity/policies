@@ -28,3 +28,4 @@ Violation of this policy and its procedures by workforce members may result in c
    * Date & time of backup
 5. Stored backups are secured and encrypted in a manner that protects them from loss or environmental damage.
 6. Backups are tested and verification is completed to ensure that files have been completely and accurately restored from the backups.
+7. Backup inventory, including metadata for content and location, is maintained using the AWS Console through the EC2 service > AMIs page and Amazon RDS service > Snapshots page.
