@@ -58,7 +58,7 @@ Access to Cloudticity systems and applications is limited for all users, includi
    5. If the task is approved, the Security Officer then marks the task as Complete, adding any pertinent notes required.
    6. Review of user access is monitored on a quarterly basis using Teamwork reporting to assess compliance with above policy.
 5. Any Cloudticity workforce member can request change of access using the process outlined in [§7.2](07-systems_access_policy.md#72-access-establishment-and-modification).
-6. Access to production systems is controlled using centralized user management and authentication.
+6. Access to production systems is controlled using centralized user management and authentication. This serves as our documented list of authorized users of information assets.
 7. Temporary accounts are not used unless absolutely necessary for business purposes.
    * Accounts are reviewed every 90 days to assure temporary accounts are not left unnecessarily.
    * Accounts that are inactive for over 90 days are removed.
@@ -75,6 +75,7 @@ Access to Cloudticity systems and applications is limited for all users, includi
     * VPN sessions are automatically disconnected after 30 minutes of inactivity.
 13. In cases of increased risk or known attempted unauthorized access, immediate steps are taken by the Security and Privacy Officer to limit access and reduce risk of unauthorized access.
 14. Direct system to system, system to application, and application to application authentication and authorization are limited and controlled to restrict access.
+15. Access rights to applications and application functions are limited to the minimum necessary using menus.
 
 ## 7.3 Workforce Clearance
 
