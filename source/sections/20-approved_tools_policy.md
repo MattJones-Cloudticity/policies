@@ -6,11 +6,15 @@ Cloudticity utilizes a suite of approved software tools for internal use by work
 
 * **1Password**: Securely stores both personal as well as Cloudticity passwords and other sensitive information.
 * **AWS**: AWS provides resources and services used for hosting HIPAA compliant solutions.
+* **BambooHR**: BambooHR is used for managing human resources.
 * **Chef**: Chef is used for automated configuration management and deployments.
 * **Cloudcheckr**: Cloudcheckr is used for AWS account management around improving security, cost, availability, and utilization.
+* **Cloudticity**: Cloudticity Oxygen is used for managing security, compliance, and services on AWS.
+* **DocuSign**: DocuSign is used for electronic signatures.
 * **Github**: Github is a tool built on top of Git, the version control platform. It is utilized for storage of configuration scripts and other infrastructure automation tools, as well as for source and version control of application code used by Cloudticity.
 * **Google Apps**: Google Apps is used for email and document collaboration.
 * **HelloSign**: HelloSign is used for electronic signatures.
+* **Hubspot**: Hubspot is a CRM used for managing customer workflow from sales to onboarding/offboarding.
 * **Microsoft Office 365**: Microsoft Office is used for document creation.
 * **New Relic**: New Relic Server Monitoring is used for instance monitoring.
 * **New Relic APM**: New Relic APM is used for application monitoring.
@@ -18,10 +22,11 @@ Cloudticity utilizes a suite of approved software tools for internal use by work
 * **Quickbooks**: Quickbooks is used for accounting.
 * **Skype**: Skype is used for client communication.
 * **Slack**: Slack is used for team communication and customer communication.
+* **Sublime**: Sublime is an IDE used for development.
 * **Teamwork**: Teamwork is used for project management and to generate artifacts for compliance procedures.
 * **Trend Micro**: Trend Micro Deep Security is used for security of AWS resources and Trend Micro Worry-Free Business Support is used for endpoint security.
-* **Uberconference**: Uberconference is used for conferencing and screen sharing.
 * **Zendesk**: Zendesk is used for ticket management and to provide workflows for incident and problem management.
+* **Zoom**: Zoom is used for conferencing and screen sharing.
 
 ## 20.2 List of Approved Application Stores
 * **Amazon Appstore**: The official Amazon app store for Android, Kindle Fire, and Blackberry.
