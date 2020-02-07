@@ -156,11 +156,11 @@ Cloudticity SIRT members include:
 
 Name | Title | E-Mail | Mobile
 ---- | ----- | ------ | ------
-Gerry Miller | CEO / CTO | gerry@cloudticity.com | (248) 819-0443
-Nicole Chaika | CFO / COO | nicole@cloudticity.com | (248) 961-0574
-Rob Williams | Director of Technology | rob@cloudticity.com | (616) 558-9018
-Thomas Zinn | Director of Project Management | thomas@cloudticity.com | (616) 446-1220
-Steven Middleton | Client Success Manager | steven@cloudticity.com | (315) 530-3331
+Gerry Miller | CEO / CTO | (248) 819-0443
+Nicole Chaika | CFO / COO | (248) 961-0574
+Rob Williams | Director of Technology | (616) 558-9018
+Thomas Zinn | Director of Project Management | (616) 446-1220
+Steven Middleton | Client Success Manager | (315) 530-3331
 
 Incident response teams include:
 

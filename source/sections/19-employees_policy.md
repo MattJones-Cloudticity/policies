@@ -20,7 +20,7 @@ Cloudticity is committed to ensuring all workforce members actively address secu
 
 1. All new workforce members, including contractors, are given training on security policies and procedures, including operations security, within 30 days of employment.
    * Records of training are kept for all workforce members.
-   * Upon completion of training, workforce members send an email (or alternate communication) to marija@cloudticity.com and nicole@cloudticity.com.
+   * Upon completion of training, workforce members send an email (or alternate communication) to Marija Bulatovic and Nicole Chaika.
    * Cloudticity training is provided annually at a company offsite where all workforce members are present.
    * Employees must complete this training before accessing production systems containing ePHI.
 2. All workforce members are granted access to formal organizational policies, which include the sanction policy for security violations.
