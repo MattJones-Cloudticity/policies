@@ -51,9 +51,9 @@ Cloudticity is committed to ensuring customers receive continuous mission-critic
 
 The following order of succession is used to ensure that decision-making authority for the Cloudticity Contingency Plan is uninterrupted. The Chief Technology Officer (CTO) and CFO are responsible for ensuring the safety of personnel and the execution of procedures documented within this Cloudticity Succession Plan. If the CTO and CFO are unable to function as the overall authority or choose to delegate this responsibility to a successor, the CEO or COO shall function as that authority. Should the contingency plan need to be initiated, please use the contact list below:
 
-* Gerry Miller, Founder & CEO: 248-819-0443
-* Nicole Chaika, CFO & COO: 248-961-0574
-* Rob Williams, Director of Technology: 616-558-9018
+* Gerry Miller, Founder & CEO: 248-819-0443, gerry@cloudticity.com
+* Nicole Chaika, CFO & COO: 248-961-0574, nicole@cloudticity.com
+* Rob Williams, Director of Technology: 616-558-9018, rob@cloudticity.com
 
 **Key Tenets**: One of the key elements to Cloudticity’s succession plan is to put preventative measures in place that minimize the chances of losing key personnel, and mitigates the effect should someone leave for any reason. Preventative measures include:
 * Document Everything: The most significant preventative measure in place to mitigate against negative customer impact from anyone leaving the company is the *document everything* approach. Every tool in use at Cloudticity - from Slack to Zendesk to Google Mail to the use of AWS S3 for file storage - is both searchable and immutable. No knowledge is stored in any one person’s head; rather, it is fully documented in a tool and discoverable by anyone with appropriate access permission. In addition, all assets such as .PEM files used to access customer assets, are stored in durable, secured locations with permission-based access, such as S3.
