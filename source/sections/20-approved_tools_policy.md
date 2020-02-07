@@ -4,6 +4,7 @@ Cloudticity utilizes a suite of approved software tools for internal use by work
 
 ## 20.1 List of Approved Applications
 
+* **15Five**: Continuous performance management solution that helps employees grow and develop, in just 15 minutes each week.
 * **1Password**: Securely stores both personal as well as Cloudticity passwords and other sensitive information.
 * **AWS**: AWS provides resources and services used for hosting HIPAA compliant solutions.
 * **BambooHR**: BambooHR is used for managing human resources.

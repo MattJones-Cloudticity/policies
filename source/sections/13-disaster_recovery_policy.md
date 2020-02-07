@@ -51,7 +51,7 @@ Cloudticity is committed to ensuring customers receive continuous mission-critic
 
 The following order of succession is used to ensure that decision-making authority for the Cloudticity Contingency Plan is uninterrupted. The Chief Technology Officer (CTO) and CFO are responsible for ensuring the safety of personnel and the execution of procedures documented within this Cloudticity Succession Plan. If the CTO and CFO are unable to function as the overall authority or choose to delegate this responsibility to a successor, the CEO or COO shall function as that authority. Should the contingency plan need to be initiated, please use the contact list below:
 
-* Gerry Miller, Founder & CTO: 248-819-0443, gerry@cloudticity.com
+* Gerry Miller, Founder & CEO: 248-819-0443, gerry@cloudticity.com
 * Nicole Chaika, CFO & COO: 248-961-0574, nicole@cloudticity.com
 * Rob Williams, Director of Technology: 616-558-9018, rob@cloudticity.com
 
@@ -93,20 +93,20 @@ The primary objective of the technical test is to ensure the communication proce
 
 ### 13.5.1 Notification and Activation Phase
 
-This phase addresses the initial actions taken to detect and assess damage inflicted by a disruption to Cloudticity. Based on the assessment of the event, sometimes according to the Cloudticity Incident Response Policy, this Disaster Recovery Plan may be activated by either the CTO or Senior AWS Engineer.
+This phase addresses the initial actions taken to detect and assess damage inflicted by a disruption to Cloudticity. Based on the assessment of the event, sometimes according to the Cloudticity Incident Response Policy, this Disaster Recovery Plan may be activated by either the CTO or Technical Account Manager.
 
 The notification sequence is listed below:
 
 * The first responder is to notify the CTO. All known information must be relayed to the CTO.
 * The CTO or Director of Technology is to contact the Web Services Team and inform them of the event. The CTO is to begin assessment procedures.
 * The CTO is to notify team members and direct them to complete the assessment procedures outlined below to determine the extent of damage and estimated recovery time. If damage assessment cannot be performed locally because of unsafe conditions, the CTO is to following the steps below.
-  * Damage Assessment Procedures: The CTO and Senior AWS Engineer are to logically assess damage, gain insight into whether the infrastructure is salvageable, and begin to formulate a plan for recovery.
+  * Damage Assessment Procedures: The CTO and Technical Account Manager are to logically assess damage, gain insight into whether the infrastructure is salvageable, and begin to formulate a plan for recovery.
   * Alternate Assessment Procedures: Upon notification from the CTO, the Director of Technology is to follow the procedures for damage assessment with combined Ops and Web Services Teams.
 * The Cloudticity Contingency Plan is to be activated if one or more of the following criteria are met:
-  * Cloudticity will be unavailable for more than 48 hours.
-  * An AWS region will be unavailable for more than 24 hours.
+  * Cloudticity will be unavailable for more than 8 hours.
+  * An AWS region will be unavailable for more than 4 hours.
   * Other criteria, as appropriate and as defined by Cloudticity.
-  * If the plan is to be activated, the CTO is to notify and inform team members of the details of the event and if relocation is required.
+* If the plan is to be activated, the CTO is to notify and inform team members of the details of the event and if relocation is required.
   * Upon notification from the CTO, group leaders and managers are to notify their respective teams. Team members are to be informed of all applicable information and prepared to respond and relocate if necessary.
   * The CTO is to notify the hosting facility partners that a contingency event has been declared and to ship the necessary materials (as determined by damage assessment) to the alternate site.
   * The CTO is to notify remaining personnel and executive leadership on the general status of the incident.
@@ -122,9 +122,9 @@ Recovery Goal: The goal is to rebuild Cloudticity infrastructure to a production
 
 The tasks outlined below are not sequential and some can be run in parallel.
 
-1. Contact partners and customers affected. - Web Services Team
-2. Assess damage to the environment. - Web Services Team
-3. Begin replication of new environment using automated and tested scripts, currently Chef and userdata. At this point it is determined whether to recover in AWS. - Ops Team
+1. First responder identifies "who is effected" then notifies TAM for all the effected entities. - Web Services Team
+2. TAM Performs a damage assessment then contacts customer team and starts a call with each effected entity. (If utilizing a shared webinar call with multiple clients, ensure all participants are muted.) - Web Services Team
+3. Begin replication of new environment using scripts. At this point it is determined whether to recover in AWS. - Ops Team
 4. Test new environment using pre-written tests. - Web Services Team
 5. Test logging, security, and alerting functionality. - Ops Team
 6. Assure systems are appropriately patched and up to date. - Ops Team
@@ -136,8 +136,8 @@ The tasks outlined below are not sequential and some can be run in parallel.
 This section discusses activities necessary for restoring Cloudticity operations at the original or new site. The goal is to restore full operations within 24 hours of a disaster or outage. When the hosted data center at the original or new site has been restored, Cloudticity operations at the alternate site may be transitioned back. The goal is to provide a seamless transition of operations from the alternate site to the original site.
 
 1. Original or New Site Restoration
-   * Begin replication of new environment using automated and tested scripts, currently Chef and userdata. - Ops Team
-   * Test new environment using pre-written tests. - Web Services Team
+   * Begin replication of new environment using scripts. - Ops Team
+   * Test new environment. - Web Services Team
    * Test logging, security, and alerting functionality. - Ops Team
    * Deploy environment to production - Web Services Team
    * Assure systems are appropriately patched and up to date. - Ops Team
