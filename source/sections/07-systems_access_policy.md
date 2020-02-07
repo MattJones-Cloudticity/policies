@@ -170,7 +170,7 @@ Cloudticity uses paper records to store recovery keys for FileVault, BitLocker, 
 10. All passwords used in configuration scripts are secured and encrypted.
 11. If a user believes their user ID has been compromised, they are required to immediately report the incident to the Security Officer.
 12. In cases where a user has forgotten their password, the following procedure is used to reset the password.
-    * The user submits a password reset request to support@cloudticity.com. The request should include the system to which the user has lost access and needs the password reset.
+    * The user submits a password reset request to support. The request should include the system to which the user has lost access and needs the password reset.
     * An administrator with password reset privileges is notified and connects directly with the user requesting the password reset.
     * The administrator verifies the identity of the user either in-person or through a separate communication channel such as phone or Slack.
     * Once verified, the administrator resets the password.

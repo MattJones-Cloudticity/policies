@@ -54,7 +54,7 @@ Cloudticity, at its sole discretion, shares audit reports, including its HITRUST
 
 The following process is used to request audit reports:
 
-1. Email is sent to support@cloudticity.com. In the email, please specify the type of report being requested and any required timelines for the report.
+1. Email is sent to support. In the email, please specify the type of report being requested and any required timelines for the report.
 2. Upon receipt of the email, a Zendesk ticket with the details of the request will be automatically created and assigned to the Cloudticity Security Officer or Privacy Officer. Zendesk is a ticket management application used to track request status and outcomes.
 3. Cloudticity will confirm if a current NDA is in place with the party requesting the audit report. If there is no NDA in place, Cloudticity will send one for execution.
 4. Once it has been confirmed that an NDA is executed, the Cloudticity Security Officer or Privacy Officer must approve or reject the request. If the request is rejected, Cloudticity will notify the requesting party that we cannot share the requested report and solve the Zendesk ticket.
