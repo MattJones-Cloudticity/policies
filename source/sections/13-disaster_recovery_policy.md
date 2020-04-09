@@ -124,6 +124,9 @@ The tasks outlined below are not sequential and some can be run in parallel.
 
 1. First responder identifies "who is effected" then notifies TAM for all the effected entities. - Web Services Team
 2. TAM Performs a damage assessment then contacts customer team and starts a call with each effected entity. (If utilizing a shared webinar call with multiple clients, ensure all participants are muted.) - Web Services Team
+* If all or most entities are effected, communication must be made using one of the following email templates:
+  * Cloudticity Oxygen Outage: https://app.hubspot.com/templates/3407169/edit/11504972?page=1
+  * AWS Outage: https://app.hubspot.com/templates/3407169/edit/11504961?page=1
 3. Begin replication of new environment using scripts. At this point it is determined whether to recover in AWS. - Ops Team
 4. Test new environment using pre-written tests. - Web Services Team
 5. Test logging, security, and alerting functionality. - Ops Team
