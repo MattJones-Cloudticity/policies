@@ -159,7 +159,7 @@ Name | Title | E-Mail | Mobile
 Gerry Miller | CEO / CTO | gerry@cloudticity.com | (248) 819-0443
 Nicole Chaika | CFO / COO | nicole@cloudticity.com | (248) 961-0574
 Rob Williams | Director of Technology | rob@cloudticity.com | (616) 558-9018
-Thomas Zinn | Director of Project Management | thomas@cloudticity.com | (616) 446-1220
+Thomas Zinn | Director of Delivery | thomas@cloudticity.com | (616) 446-1220
 Steven Middleton | Client Success Manager | steven@cloudticity.com | (315) 530-3331
 
 Incident response teams include:
@@ -167,17 +167,17 @@ Incident response teams include:
 ### Security Incident Response Team
 * Chief Executive Officer (Gerry Miller)
 *	Chief Operating Officer (Nicole Chaika)
-*	Director of Project Management (Thomas Zinn)
+*	Director of Delivery (Thomas Zinn)
 *	Client Success Manager (Steven Middleton)
 
 ### Technical Incident Response Team
 *	Chief Executive Officer (Gerry Miller)
 *	Director of Technology (Rob Williams)
-*	Director of Project Management (Thomas Zinn)
+*	Director of Delivery (Thomas Zinn)
 
 ### Cybersecurity Management Committee
 *	Chief Executive Officer (Gerry Miller)
 *	Chief Operating Officer (Nicole Chaika)
-*	Director of Project Management (Thomas Zinn)
+*	Director of Delivery (Thomas Zinn)
 *	Director of Technology (Rob Williams)
 *	Client Success Manager (Steven Middleton)
