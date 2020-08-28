@@ -37,7 +37,7 @@ Access to Cloudticity systems and applications is limited for all users, includi
 ## 7.2 Access Establishment and Modification
 
 1. Requests for access to the Cloudticity Oxygen managed services platform systems and applications are made during the employee onboarding process or formally using the following process:
-   1. The Cloudticity workforce member, or their manager, initiates the access request by creating a task in the Teamwork project: Compliance Review Activity (CRA).
+   1. The Cloudticity workforce member, or their manager, initiates the access request by creating a task in the Teamwork project "Cloudticity - Compliance".
       * User identities must be verified prior to granting access to new accounts.
       * Identity verification must be done in person where possible; for remote employees, identities must be verified over the phone.
       * For new accounts, the method used to verify the user's identity must be recorded on the task.
@@ -51,14 +51,14 @@ Access to Cloudticity systems and applications is limited for all users, includi
 2. Access is not granted until receipt, review, and approval by the Cloudticity Security Officer;
 3. The request for access is retained for future reference.
 4. All access to Cloudticity systems and services are reviewed and updated on a quarterly basis to assure proper authorizations are in place commensurate with job functions. The process for conducting reviews is outlined below:
-   1. The Security Officer initiates the review of user access by creating a task in the Teamwork project: Compliance Review Activity (CRA).
+   1. The Security Officer initiates the review of user access by creating a task in the Teamwork project "Cloudticity - Compliance".
    2. The Security Officer, or a Privacy Officer, is assigned to review levels of access for each Cloudticity workforce member.
    3. If user access is found during review that is not in line with the least privilege principle, the process below is used to modify user access and notify the user of access changes. Once those steps are completed, the access is then reviewed again.
    4. Once the review is complete, the Security Officer approves or rejects the task. If the task is rejected, it goes back for further review and documentation.
    5. If the task is approved, the Security Officer then marks the task as Complete, adding any pertinent notes required.
    6. Review of user access is monitored on a quarterly basis using Teamwork reporting to assess compliance with above policy.
 5. Any Cloudticity workforce member can request change of access using the process outlined in [§7.2](07-systems_access_policy.md#72-access-establishment-and-modification).
-6. Access to production systems is controlled using centralized user management and authentication.
+6. Access to production systems is controlled using centralized user management and authentication. This serves as our documented list of authorized users of information assets.
 7. Temporary accounts are not used unless absolutely necessary for business purposes.
    * Accounts are reviewed every 90 days to assure temporary accounts are not left unnecessarily.
    * Accounts that are inactive for over 90 days are removed.
@@ -75,6 +75,7 @@ Access to Cloudticity systems and applications is limited for all users, includi
     * VPN sessions are automatically disconnected after 30 minutes of inactivity.
 13. In cases of increased risk or known attempted unauthorized access, immediate steps are taken by the Security and Privacy Officer to limit access and reduce risk of unauthorized access.
 14. Direct system to system, system to application, and application to application authentication and authorization are limited and controlled to restrict access.
+15. Access rights to applications and application functions are limited to the minimum necessary using menus.
 
 ## 7.3 Workforce Clearance
 

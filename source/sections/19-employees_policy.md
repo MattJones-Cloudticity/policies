@@ -45,6 +45,9 @@ Cloudticity is committed to ensuring all workforce members actively address secu
 13. Employees are required to cooperate with federal and state investigations.
     * Employees must not interfere with investigations through willful misrepresentation, omission of facts, or by the use of threats against any person.
     * Employees found to be in violation of this policy will be subject to sanctions as described in [§5.3.3](05-roles_policy.md#533-sanctions-of-workforce-responsibilities).
+14. Cloudticity conducts background checks before hiring workforce members.  These checks include an independent identity check, criminal history, and bankruptcy history.  Candidates are informed about the background checks and sign a release form.  These checks are conducted by either the CEO or the COO through an independent agency in accordance with any appropriate legislation.  In addition, workforce members are screened for eligibility to work in the U.S. during their first week of employment.  All workforce members also sign an employment agreement, which includes confidentiality and non-disclosure agreements.  These are reviewed at least annually and when changes occur that influence these 
+requirements, such as applicable laws and regulations for the jurisdiction to which they apply.
+15.  Upon termination or changes in employment for employees, contractors, third-party users or other workforce arrangement, physical and logical access rights and associated materials (e.g., passwords, keycards, keys, documentation that identify them as current members of the organization) are removed or modified to restrict access within 24 hours and old accounts are closed after 90 days of opening new accounts.  Cloudticity also ensures employees or workforce members that are terminated understand their obligations to ensure any covered information for which they had prior access remains confidential (e.g., during an exit interview).  When an employee or other workforce members move to a new position of trust, logical and physical access controls are re-evaluated as soon as possible but not to exceed thirty (30) days.
 
 ## 19.3 Issue Escalation
 
@@ -54,7 +57,7 @@ Security incidents, particularly those involving ePHI, are handled using the pro
 
 It is the duty of the CEO to follow the process outlined below:
 
-1. Create a private task in the Teamwork project: Compliance Review Activity (CRA).
+1. Create a private task in the Teamwork project "Cloudticity - Compliance".
 2. The task is investigated, documented, and, when a conclusion or remediation is reached, it is assigned to another workforce member for review.
 3. The task is reviewed by the other workforce member. If the task is rejected, it goes back for further evaluation and review.
 4. If the task is approved, it is marked as Complete, adding any pertinent notes required.

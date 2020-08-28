@@ -20,9 +20,9 @@ Cloudticity standardizes and automates configuration management through the use 
 3. All changes to production systems, network devices, and firewalls are approved by the Cloudticity CTO before they are implemented to assure they comply with business and security requirements.
 4. All changes to production systems are tested before they are implemented in production.
 5. Implementation of approved changes are only performed by authorized personnel.
-6. Tooling to generate an up-to-date inventory of systems is located in Cloudcheckr.
+6. Tooling to generate an up-to-date inventory of systems is located in CloudHealth.
    * All systems are labelled using tags to differentiate resources based on criticality and sensitivity.
-   * Cloudcheckr is used to generate the inventory lists and asset lists required by the Risk Assessment phase of Cloudticity's Risk Management procedures ([§4.3.1](04-risk_management_policy.md#431-risk-assessment)).
+   * CloudHealth is used to generate the inventory lists and asset lists required by the Risk Assessment phase of Cloudticity's Risk Management procedures ([§4.3.1](04-risk_management_policy.md#431-risk-assessment)).
 7. All frontend functionality (developer dashboards and portals) is separated from backend (database and app servers) systems by being deployed on separate servers or containers.
 8. All software and systems are tested using unit tests and end to end tests.
 9. All committed code is reviewed using pull requests to assure software code quality and proactively detect potential security issues in development.
@@ -33,6 +33,7 @@ Cloudticity standardizes and automates configuration management through the use 
     * Windows-based systems use a baseline configuration in conjunction with the Windows Server 2012 STIG.
     * Linux-based systems use a Red Hat Enterprise Linux STIG.
 14. Clocks are continuously synchronized to an authoritative source across all systems using NTP or a platform-specific equivalent. Modifying time data on systems is restricted.
+15. Any vendor software which is non-supported will be replaced where possible or if not possible a plan for migration will be developed
 
 ## 9.3 Provisioning Production Systems
 

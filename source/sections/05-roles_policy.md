@@ -87,7 +87,8 @@ These organizational responsibilities include, but are not limited to the follow
     * Applies consistent and appropriate sanctions against workforce members who fail to comply with the security policies and procedures of Cloudticity.
     * Mitigates, to the extent practicable, any harmful effect known to Cloudticity of a use or disclosure of ePHI in violation of Cloudticity's policies and procedures, even if the effect is the result of actions of Cloudticity business associates, customers, and/or partners.
 11. Reports security efforts and incidents to administration immediately upon discovery. Responsibilities in the case of a known ePHI breach are documented in the [Cloudticity Breach Policy](12-breach_policy.md).
-12. The Security Officer facilitates the communication of security updates and reminders to all workforce members to which it pertains. Examples of security updates and reminders include, but are not limited to:
+12. Verifies that all employees have attended Security Awareness training annually.
+13. The Security Officer facilitates the communication of security updates and reminders to all workforce members to which it pertains. Examples of security updates and reminders include, but are not limited to:
     * Latest malicious software or virus alerts;
     * Cloudticity's requirement to report unauthorized attempts to access ePHI;
     * Changes in creating or changing passwords;
@@ -100,7 +101,7 @@ These organizational responsibilities include, but are not limited to the follow
       * Patch management;
       * Media Disposal and/or Re-use;
       * Documentation requirements.
-13. The Security Officer works with the CFO to ensure that any security objectives have appropriate consideration during the budgeting process.
+14. The Security Officer works with the CFO to ensure that any security objectives have appropriate consideration during the budgeting process.
     * In general, security and compliance are core to Cloudticity's technology and service offerings; in most cases this means security-related objectives cannot be split out to separate budget line items.
     * For cases that *can* be split out into discrete items, such as licenses for commercial tooling, the Security Officer follows Cloudticity's standard corporate budgeting process.
       * At the beginning of every fiscal year, the CFO contacts the Security Officer to plan for the upcoming year's expenses.
