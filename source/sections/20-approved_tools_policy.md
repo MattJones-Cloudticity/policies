@@ -3,12 +3,12 @@
 Cloudticity utilizes a suite of approved software tools for internal use by workforce members. These software tools are either self-hosted, with security managed by Cloudticity, or they are hosted by a subcontractor with appropriate business associate agreements in place to preserve data integrity. Use of other tools requires approval from Cloudticity leadership.
 
 ## 20.1 List of Approved Applications
-
 * **15Five**: Continuous performance management solution that helps employees grow and develop, in just 15 minutes each week.
 * **1Password**: Securely stores both personal as well as Cloudticity passwords and other sensitive information.
-* **AWS**: AWS provides resources and services used for hosting HIPAA compliant solutions.
+* **AWS**: Amazon Web Services provides resources and services used for hosting HIPAA & HITRUST compliant solutions.
+* **Azure**: Microsoft Azure provides resources and services used for hosting HIPAA & HITRUST compliant solutions.
 * **BambooHR**: BambooHR is used for managing human resources.
-* **Chef**: Chef is used for automated configuration management and deployments.
+* **Chef**: (Deprecated, but still approved) Chef is used for automated configuration management and deployments.
 * **CloudHealth**: CloudHealth is used for AWS account management around inventory and cost analysis.
 * **Cloudticity**: Cloudticity Oxygen is used for managing security, compliance, and services on AWS.
 * **Concord**: Concord is used for contract management.
