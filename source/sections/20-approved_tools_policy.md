@@ -3,10 +3,16 @@
 Cloudticity utilizes a suite of approved software tools for internal use by workforce members. These software tools are either self-hosted, with security managed by Cloudticity, or they are hosted by a subcontractor with appropriate business associate agreements in place to preserve data integrity. Use of other tools requires approval from Cloudticity leadership.
 
 ## 20.1 List of Approved Applications
-
-* **AWS**: AWS provides resources and services used for hosting HIPAA compliant solutions.
-* **Chef**: Chef is used for automated configuration management and deployments.
-* **Cloudcheckr**: Cloudcheckr is used for AWS account management around improving security, cost, availability, and utilization.
+* **15Five**: Continuous performance management solution that helps employees grow and develop, in just 15 minutes each week.
+* **1Password**: Securely stores both personal as well as Cloudticity passwords and other sensitive information.
+* **AWS**: Amazon Web Services provides resources and services used for hosting HIPAA & HITRUST compliant solutions.
+* **Azure**: Microsoft Azure provides resources and services used for hosting HIPAA & HITRUST compliant solutions.
+* **BambooHR**: BambooHR is used for managing human resources.
+* **Chef**: (Deprecated, but still approved) Chef is used for automated configuration management and deployments.
+* **CloudHealth**: CloudHealth is used for AWS account management around inventory and cost analysis.
+* **Cloudticity**: Cloudticity Oxygen is used for managing security, compliance, and services on AWS.
+* **Concord**: Concord is used for contract management.
+* **DocuSign**: DocuSign is used for electronic signatures.
 * **Github**: Github is a tool built on top of Git, the version control platform. It is utilized for storage of configuration scripts and other infrastructure automation tools, as well as for source and version control of application code used by Cloudticity.
 * **Google Apps**: Google Apps is used for email and document collaboration.
 * **HelloSign**: HelloSign is used for electronic signatures.
