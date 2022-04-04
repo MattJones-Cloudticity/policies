@@ -64,9 +64,9 @@ A breach of standards, procedures, and/or guidelines established in support of t
 
 **Table of Contents**
 
-[**1**](#1-Information-Protection-Program-(Domain-1)) **Information Protection Program (Domain 1)**  **6**
+[**1 Information Protection Program (Domain 1)  6**](#1-Information-Protection-Program-(Domain-1))
 
-> [**1.1**](#1.1-Purpose) **Purpose**  **6**
+> [**1.1 Purpose  6**](#1.1-Purpose)
 
 > [**1.2**](#1.2-Scope) **Scope**  **6**
 
