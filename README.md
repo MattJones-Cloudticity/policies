@@ -60,195 +60,193 @@ Information assets are vital company resources that require protection commensur
 
 ### **ENFORCEMENT** 
 A breach of standards, procedures, and/or guidelines established in support of this policy shall be directed to the CTO for action that could result in employee termination and/or legal action.
- |
- |
-| --- | --- |
+
 
 **Table of Contents**
 
-[**1**](#_heading=h.1t3h5sf) **Information Protection Program (Domain 1)**  **6**
+[**1**](#1-Information-Protection-Program-(Domain-1)) **Information Protection Program (Domain 1)**  **6**
 
-> [**1.1**](#_heading=h.4d34og8) **Purpose**  **6**
+> [**1.1**](#1.1-Purpose) **Purpose**  **6**
 
-> [**1.2**](#_heading=h.2s8eyo1) **Scope**  **6**
+> [**1.2**](#1.2-Scope) **Scope**  **6**
 
-> [**1.3**](#_heading=h.17dp8vu) **Strategy**  **6**
+> [**1.3**](#1.3-Strategy) **Strategy**  **6**
 
-> [**1.4**](#_heading=h.3rdcrjn) **Compliance and Continuous Improvement**  **6**
+> [**1.4**](#1.4-Compliance-and-Continuous-Improvement) **Compliance and Continuous Improvement**  **6**
 
-> [**1.5**](#_heading=h.26in1rg) **Capital Planning**  **6**
+> [**1.5**](#1.5-Capital-Planning) **Capital Planning**  **6**
 
-> [**1.6**](#_heading=h.lnxbz9) **Risk Management**  **7**
+> [**1.6**](#1.6-Risk-Management) **Risk Management**  **7**
 
-> [**1.7**](#_heading=h.35nkun2) **Security Roles and Responsibilities**  **7**
+> [**1.7**](#1.7-Security-Roles-and-Responsibilities) **Security Roles and Responsibilities**  **7**
 
-> [**1.8**](#_heading=h.1ksv4uv) **Policy Management**  **7**
+> [**1.8**](#1.8-Policy-Management) **Policy Management**  **7**
 
-> [**1.9**](#_heading=h.44sinio) **Policy Sanctions and Acceptable Use**  **7**
+> [**1.9**](#1.9-Policy-Sanctions-and-Acceptable-Use) **Policy Sanctions and Acceptable Use**  **7**
 
-[**2**](#_heading=h.2jxsxqh) **Endpoint Protection (Domain 2)**  **8**
+[**2**](#2-Endpoint-Protection-(Domain-2)) **Endpoint Protection (Domain 2)**  **8**
 
->[**2.1**](#_heading=h.z337ya) **Malware**  **8**
+>[**2.1**](#2.1-Malware) **Malware**  **8**
 
->[**2.2**](#_heading=h.3j2qqm3) **Mobile Protection**  **8**
+>[**2.2**](#2.2-Mobile-Protection) **Mobile Protection**  **8**
 
->[**2.3**](#_heading=h.1y810tw) **Administrative Access Control**  **9**
+>[**2.3**](#2.3-Administrative-Access-Control) **Administrative Access Control**  **9**
 
-[**3**](#_heading=h.4i7ojhp) **Portable Media Security (Domain 3)**  **9**
+[**3**](#3-Portable-Media-Security-(Domain-3)) **Portable Media Security (Domain 3)**  **9**
 
->[**3.1**](#_heading=h.2xcytpi) **Use of Portable Media**  **9**
+>[**3.1**](#3.1-Use-of-Portable-Media) **Use of Portable Media**  **9**
 
->[**3.2**](#_heading=h.1ci93xb) **Portable Media Data Transfers**  **9**
+>[**3.2**](#3.2-Portable-Media-Data-Transfers) **Portable Media Data Transfers**  **9**
 
-[**4**](#_heading=h.3whwml4) **Mobile Device Security (Domain 4)**  **9**
+[**4**](#4-Mobile-Device-Security-(Domain-4)) **Mobile Device Security (Domain 4)**  **9**
 
->[**4.1**](#_heading=h.2bn6wsx) **Mobile Device Security**  **9**
+>[**4.1**](#4.1-Mobile-Device-Security) **Mobile Device Security**  **9**
 
->[**4.2**](#_heading=h.qsh70q) **Teleworking Access and Security**  **9**
+>[**4.2**](#4.2-Teleworking-Access-and-Security) **Teleworking Access and Security**  **9**
 
-[**5**](#_heading=h.3as4poj) **Wireless Security (Domain 5)**  **10**
+[**5**](#5-Wireless-Security-(Domain-5)) **Wireless Security (Domain 5)**  **10**
 
->[**5.1**](#_heading=h.1pxezwc) **Wireless Security Standards**  **10**
+>[**5.1**](#5.1-Wireless-Security-Standards) **Wireless Security Standards**  **10**
 
-[**6**](#_heading=h.49x2ik5) **Configuration Management (Domain 6)**  **10**
+[**6**](#6-Configuration-Management-(Domain-6)) **Configuration Management (Domain 6)**  **10**
 
->[**6.1**](#_heading=h.2p2csry) **Compliance**  **10**
+>[**6.1**](#6.1-Compliance) **Compliance**  **10**
 
->[**6.2**](#_heading=h.147n2zr) **Change Management**  **10**
+>[**6.2**](#6.2-Change-Management) **Change Management**  **10**
 
->[**6.3**](#_heading=h.3o7alnk) **Secure Configuration Management**  **11**
+>[**6.3**](#6.3-Secure-Configuration-Management) **Secure Configuration Management**  **11**
 
->[**6.4**](#_heading=h.23ckvvd) **Software Development Management**  **12**
+>[**6.4**](#6.4-Software-Development-Management) **Software Development Management**  **12**
 
-[**7**](#_heading=h.ihv636) **Vulnerability Management (Domain 7)**  **12**
+[**7**](#7-Vulnerability-Management-(Domain-7)) **Vulnerability Management (Domain 7)**  **12**
 
->[**7.1**](#_heading=h.32hioqz) **Asset Management**  **12**
+>[**7.1**](#7.1-Asset-Management) **Asset Management**  **12**
 
->[**7.2**](#_heading=h.1hmsyys) **Hardening**  **13**
+>[**7.2**](#7.2-Hardening) **Hardening**  **13**
 
->[**7.3**](#_heading=h.41mghml) **Patch Management**  **13**
+>[**7.3**](#7.3-Patch-Management) **Patch Management**  **13**
 
->[**7.4**](#_heading=h.2grqrue) **Vulnerability Management**  **13**
+>[**7.4**](#7.4-Vulnerability-Management) **Vulnerability Management**  **13**
 
->[**7.5**](#_heading=h.vx1227) **Penetration Testing**  **14**
+>[**7.5**](#7.5-Penetration-Testing) **Penetration Testing**  **14**
 
->[**7.6**](#_heading=h.3fwokq0) **Software Development Security**  **14**
+>[**7.6**](#7.6-Software-Development-Security) **Software Development Security**  **14**
 
-[**8**](#_heading=h.1v1yuxt) **Network Protection (Domain 8)**  **14**
+[**8**](#8-Network-Protection-(Domain-8)) **Network Protection (Domain 8)**  **14**
 
->[**8.1**](#_heading=h.4f1mdlm) **Network Management**  **14**
+>[**8.1**](#8.1-Network-Management) **Network Management**  **14**
 
->[**8.2**](#_heading=h.2u6wntf) **Network Segmentation**  **14**
+>[**8.2**](#8.2-Network-Segmentation) **Network Segmentation**  **14**
 
->[**8.3**](#_heading=h.19c6y18) **Network Security**  **15**
+>[**8.3**](#8.3-Network-Security) **Network Security**  **15**
 
->[**8.4**](#_heading=h.3tbugp1) **Firewall Management**  **16**
+>[**8.4**](#8.4-Firewall-Management) **Firewall Management**  **16**
 
->[**8.5**](#_heading=h.28h4qwu) **Remote Access**  **17**
+>[**8.5**](#8.5-Remote-Access) **Remote Access**  **17**
 
-[**9**](#_heading=h.nmf14n) **Transmission Protection (Domain 9)**  **17**
+[**9**](#9-Transmission-Protection-(Domain-9)) **Transmission Protection (Domain 9)**  **17**
 
->[**9.1**](#_heading=h.37m2jsg) **Data Protection**  **17**
+>[**9.1**](#9.1-Data-Protection) **Data Protection**  **17**
 
->[**9.2**](#_heading=h.1mrcu09) **Remote Access**  **18**
+>[**9.2**](#9.2-Remote-Access) **Remote Access**  **18**
 
->[**9.3**](#_heading=h.46r0co2) **Encryption Management**  **18**
+>[**9.3**](#9.3-Encryption-Management) **Encryption Management**  **18**
 
->[**9.4**](#_heading=h.2lwamvv) **Electronic Signatures**  **18**
+>[**9.4**](#9.4-Electronic-Signatures) **Electronic Signatures**  **18**
 
-[**10**](#_heading=h.111kx3o) **Password Management (Domain 10)**  **19**
+[**10**](#10-Password-Management-(Domain-10)) **Password Management (Domain 10)**  **19**
 
->[**10.1**](#_heading=h.3l18frh) **Password Management**  **19**
+>[**10.1**](#10.1-Password-Management) **Password Management**  **19**
 
->[**10.2**](#_heading=h.206ipza) **User Password Responsibilities**  **19**
+>[**10.2**](#10.2-User-Password-Responsibilities) **User Password Responsibilities**  **19**
 
->[**11**](#_heading=h.4k668n3)**Access Control (Domain 11)**  **19**
+>[**11**](#11-Access-Control-(Domain-11))**Access Control (Domain 11)**  **19**
 
->[**11.1**](#_heading=h.2zbgiuw) **Access Control Management**  **19**
+>[**11.1**](#11.1-Access-Control-Management) **Access Control Management**  **19**
 
->[**11.2**](#_heading=h.1egqt2p) **User Verification**  **20**
+>[**11.2**](#11.2-User-Verification) **User Verification**  **20**
 
->[**11.3**](#_heading=h.3ygebqi) **Role-Based Security**  **20**
+>[**11.3**](#11.3-Role-Based-Security) **Role-Based Security**  **20**
 
->[**11.4**](#_heading=h.2dlolyb) **Shared/Guest Accounts**  **21**
+>[**11.4**](#11.4-Shared/Guest-Accounts) **Shared/Guest Accounts**  **21**
 
->[**11.5**](#_heading=h.sqyw64) **Privilege Account Management**  **21**
+>[**11.5**](#11.5-Privilege-Account-Management) **Privilege Account Management**  **21**
 
->[**11.6**](#_heading=h.3cqmetx) **Network Access Security**  **22**
+>[**11.6**](#11.6-Network-Access-Security) **Network Access Security**  **22**
 
->[**11.7**](#_heading=h.1rvwp1q) **Remote Access**  **22**
+>[**11.7**](#11.7-Remote-Access) **Remote Access**  **22**
 
->[**11.8**](#_heading=h.4bvk7pj) **Clear Desk/Clear Screen Policy**  **22**
+>[**11.8**](#11.8-Clear-Desk/Clear-Screen-Policy) **Clear Desk/Clear Screen Policy**  **22**
 
-[**12**](#_heading=h.2r0uhxc) **Audit Logging &amp; Monitoring (Domain 12)**  **23**
+[**12**](#12-Audit-Logging-&amp;-Monitoring-(Domain 12)) **Audit Logging &amp; Monitoring (Domain 12)**  **23**
 
->[**12.1**](#_heading=h.1664s55) **Audit Log Management**  **23**
+>[**12.1**](#12.1-Audit-Log-Management) **Audit Log Management**  **23**
 
->[**12.2**](#_heading=h.3q5sasy) **Security Incident and Event Management**  **23**
+>[**12.2**](#12.2-Security-Incident-and-Event-Management) **Security Incident and Event Management**  **23**
 
->[**12.3**](#_heading=h.25b2l0r) **Separation of Duties**  **24**
+>[**12.3**](#12.3-Separation-of-Duties) **Separation of Duties**  **24**
 
-[**13**](#_heading=h.kgcv8k) **Education, Training and Awareness (Domain 13)**  **25**
+[**13**](#13-Education,-Training-and-Awareness-(Domain-13)) **Education, Training and Awareness (Domain 13)**  **25**
 
->[**13.1**](#_heading=h.34g0dwd) **Policy Awareness and Management**  **25**
+>[**13.1**](#13.1-Policy-Awareness-and-Management) **Policy Awareness and Management**  **25**
 
->[**13.2**](#_heading=h.1jlao46) **Security Awareness Program**  **25**
+>[**13.2**](#13.2-Security-Awareness-Program) **Security Awareness Program**  **25**
 
->[**14**](#_heading=h.43ky6rz)**Third-Party Assurance (Domain 14)**  **26**
+>[**14**](#14-Third-Party-Assurance-(Domain-14))**Third-Party Assurance (Domain 14)**  **26**
 
->[**14.1**](#_heading=h.2iq8gzs) **Third-Party Management**  **26**
+>[**14.1**](#14.1-Third-Party-Management) **Third-Party Management**  **26**
 
->[**14.2**](#_heading=h.xvir7l) **Third-Party Remote Access**  **27**
+>[**14.2**](#14.2-Third-Party-Remote-Access) **Third-Party Remote Access**  **27**
 
->[**14.3**](#_heading=h.3hv69ve) **Third-Party Software Development**  **27**
+>[**14.3**](#14.3-Third-Party-Software-Development) **Third-Party Software Development**  **27**
 
-[**15**](#_heading=h.1x0gk37) **Incident Management (Domain 15)**  **27**
+[**15**](#15-Incident Management-(Domain-15)) **Incident Management (Domain 15)**  **27**
 
->[**15.1**](#_heading=h.4h042r0) **Security Incident Response**  **27**
+>[**15.1**](#15.1-Security-Incident-Response) **Security Incident Response**  **27**
 
->[**15.2**](#_heading=h.2w5ecyt) **Employee Incidents and Sanctions**  **29**
+>[**15.2**](#15.2-Employee-Incidents-and-Sanctions) **Employee Incidents and Sanctions**  **29**
 
-[**16**](#_heading=h.1baon6m) **Business Continuity &amp; Disaster Recovery (Domain 16)**  **29**
+[**16**](#16-Business-Continuity-&amp;-Disaster-Recovery-(Domain-16)) **Business Continuity &amp; Disaster Recovery (Domain 16)**  **29**
 
->[**16.1**](#_heading=h.3vac5uf) **Business Continuity**  **29**
+>[**16.1**](#16.1-Business-Continuity) **Business Continuity**  **29**
 
->[**16.2**](#_heading=h.2afmg28) **Disaster Recovery**  **30**
+>[**16.2**](#16.2-Disaster-Recovery) **Disaster Recovery**  **30**
 
-[**17**](#_heading=h.pkwqa1) **Risk Management (Domain 17)**  **31**
+[**17**](#17-Risk-Management-(Domain-17)) **Risk Management (Domain 17)**  **31**
 
->[**17.1**](#_heading=h.39kk8xu) **Risk Management Program**  **31**
+>[**17.1**](#17.1-Risk-Management-Program) **Risk Management Program**  **31**
 
->[**17.2**](#_heading=h.1opuj5n) **Security Controls**  **32**
+>[**17.2**](#17.2-Security-Controls) **Security Controls**  **32**
 
->[**17.3**](#_heading=h.48pi1tg) **Vendor and Procurement**  **32**
+>[**17.3**](#17.3-Vendor-and-Procurement) **Vendor and Procurement**  **32**
 
->[**17.4**](#_heading=h.2nusc19) **Enterprise Architecture**  **33**
+>[**17.4**](#17.4-Enterprise-Architecture) **Enterprise Architecture**  **33**
 
->[**17.5**](#_heading=h.1302m92) **Project Management**  **33**
+>[**17.5**](#17.5-Project-Management) **Project Management**  **33**
 
->[**17.6**](#_heading=h.3mzq4wv) **Software Development Lifecycle**  **33**
+>[**17.6**](#17.6-Software-Development-Lifecycle) **Software Development Lifecycle**  **33**
 
-[**18**](#_heading=h.2250f4o) **Physical &amp; Environmental Security (Domain 18)**  **33**
+[**18**](#18-Physical-&amp;-Environmental-Security-(Domain-18)) **Physical &amp; Environmental Security (Domain 18)**  **33**
 
->[**18.1**](#_heading=h.haapch) **Physical Security**  **33**
+>[**18.1**](#18.1-Physical-Security) **Physical Security**  **33**
 
->[**18.2**](#_heading=h.319y80a) **Environmental Security**  **35**
+>[**18.2**](#18.2-Environmental-Security) **Environmental Security**  **35**
 
->[**18.3**](#_heading=h.1gf8i83) **Media Destruction**  **35**
+>[**18.3**](#18.3-Media-Destruction) **Media Destruction**  **35**
 
-[**19**](#_heading=h.40ew0vw) **Data Protection &amp; Privacy (Domain 19)**  **36**
+[**19**](#19-Data-Protection-&amp;-Privacy-(Domain-19)) **Data Protection &amp; Privacy (Domain 19)**  **36**
 
->[**19.1**](#_heading=h.2fk6b3p) **Data Protection**  **36**
+>[**19.1**](#19.1-Data-Protection) **Data Protection**  **36**
 
->[**19.2**](#_heading=h.upglbi) **Privacy Management**  **36**
+>[**19.2**](#19.2-Privacy-Management) **Privacy Management**  **36**
 
->[**19.3**](#_heading=h.3ep43zb) **Records Management**  **36**
+>[**19.3**](#19.3-Records-Management) **Records Management**  **36**
 
-[**20**](#_heading=h.1tuee74) **Review Frequency**  **37**
+[**20**](#20-Review-Frequency) **Review Frequency**  **37**
 
-[**21**](#_heading=h.4du1wux) **HITRUST Requirements**  **38**
+[**21**](#21-HITRUST-Requirements) **HITRUST Requirements**  **38**
 
-#
+
 
 
 # 1 Information Protection Program (Domain 1)
