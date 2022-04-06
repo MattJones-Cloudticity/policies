@@ -178,7 +178,7 @@ A breach of standards, procedures, and/or guidelines established in support of t
 
 >[**11.8 Clear Desk/Clear Screen Policy**](#118-Clear-Desk/Clear-Screen-Policy)
 
-[**12 Audit Logging &amp; Monitoring (Domain 12)**](#12-Audit-Logging--Monitoring-Domain 12)
+[**12 Audit Logging &amp; Monitoring (Domain 12)**](#12-Audit-Logging--Monitoring-Domain-12)
 
 >[**12.1 Audit Log Management**](#121-Audit-Log-Management)
 
@@ -200,7 +200,7 @@ A breach of standards, procedures, and/or guidelines established in support of t
 
 >[**14.3**](#14.3-Third-Party-Software-Development) **Third-Party Software Development**  **27**
 
-[**15 Incident Management (Domain 15)**](#15-Incident Management-Domain-15)
+[**15 Incident Management (Domain 15)**](#15-Incident-Management-Domain-15)
 
 >[**15.1 Security Incident Response**](#151-Security-Incident-Response)
 
