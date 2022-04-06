@@ -198,7 +198,7 @@ A breach of standards, procedures, and/or guidelines established in support of t
 
 >[**14.2 Third-Party Remote Access**](#142-Third-Party-Remote-Access)
 
->[**14.3**](#14.3-Third-Party-Software-Development) **Third-Party Software Development**  **27**
+>[**14.3 Third-Party Software Development**](#14.3-Third-Party-Software-Development)
 
 [**15 Incident Management (Domain 15)**](#15-Incident-Management-Domain-15)
 
