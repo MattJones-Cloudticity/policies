@@ -13,7 +13,7 @@ Policy is licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-s
 
 # **Cloudticity Information Security Policy**
 
-## **August 30, 2022**
+## **February 8, 2021**
 
 
 
