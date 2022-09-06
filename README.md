@@ -30,6 +30,7 @@ Policy is licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-s
 | --- | --- | --- | --- |
 | 02/01/2021 | Document origination | Information Security Policy | Jerry Shaffer, Senior Project Manager |
 | 02/03/2021 | Document reviewed, HITRUST requirement updates made | Revised for HITRUST alignment to v9.3 | Jerry Shaffer, Senior Project Manager |
+| 08/30/2022 | Added New Section 15.1 Moved prior sections 15.1 and 15.2 to Sections 15.2 and 15.3, respectively | Addresses Security Issue discovered in Client’s environment | Jerry Shaffer, Senior Project Manager |
 
 ### **PURPOSE** 
 This Security Policy is intended to provide management direction and defines what is expected with respect to Information Security within Cloudticity (&quot;company&quot;).  The overall objective is to control and/or guide human behavior to reduce the risk to information assets by accidental or deliberate actions.  This policy, as well as all policies, standards, and guidelines are designed to secure access to and use of information assets owned, operated, or provided by the company and all its clients.
@@ -202,9 +203,11 @@ A breach of standards, procedures, and/or guidelines established in support of t
 
 [**15 Incident Management (Domain 15)**](#15-Incident-Management-Domain-15)
 
->[**15.1 Security Incident Response**](#151-Security-Incident-Response)
+>[**15.1 Client Security Issue**](#151-Client-Security-Response)
 
->[**15.2 Employee Incidents and Sanctions**](#152-Employee-Incidents-and-Sanctions)
+>[**15.2 Security Incident Response**](#152-Security-Incident-Response)
+
+>[**15.3 Employee Incidents and Sanctions**](#153-Employee-Incidents-and-Sanctions)
 
 [**16 Business Continuity &amp; Disaster Recovery (Domain 16)**](#16-Business-Continuity--Disaster-Recovery-Domain-16)
 
@@ -1030,7 +1033,12 @@ Cloudticity shall restrict the location of facilities that process, transmit or 
 # 15 Incident Management (Domain 15)
 
   
-## 15.1 Security Incident Response
+## 15.1 Client Security Issue
+
+Clients can have security issues which are not the responsibility of Cloudticity.  Even in these scenarios, Cloudticity can be helpful in the identification of the problem.  In the event that a security issue is identified in the client’s environment, Cloudticity will follow the process detailed in Cloudticity’s Client Security Issue Process.  In general, this flow consists of identifying the timing of the security issue, whether is covered on the BAA with the client, and working with the client to determine the scope and severity of the issue.
+
+
+## 15.2 Security Incident Response
 
 A formal security incident response program shall be established to respond, report (without fear of repercussion), escalate and treat breaches and reported security events or incidents. Organization-wide standards are specified for the time required for system administrators and other personnel to report anomalous events to the incident handling team, the mechanisms for such reporting, and the kind of information that should be included in the incident notification. This reporting includes notifying internal and external stakeholders, the appropriate community Computer Emergency Response Team, and law enforcement agencies in accordance with all legal or regulatory requirements for involving that organization in computer incidents (1505.11a1Organizational.13).
 
@@ -1067,7 +1075,7 @@ For unauthorized disclosures of covered information, a log will be maintained an
 Workforce members will always cooperate with federal or state investigations or disciplinary proceedings (1524.11a1Organizational.5). Incidents shall be promptly reported to the appropriate authorities and outside parties (e.g., FedCIRC, CERT/CC) (1523.11c3Organizational.24).
 
   
-## 15.2 Employee Incidents and Sanctions
+## 15.3 Employee Incidents and Sanctions
 
 Management shall approve the use of information assets and will take appropriate action when unauthorized activity occurs (1504.06e1Organizational.34).
 
