@@ -13,7 +13,7 @@ Policy is licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-s
 
 # **Cloudticity Information Security Policy**
 
-## **February 8, 2021**
+## **August 30, 2022**
 
 
 
@@ -30,7 +30,7 @@ Policy is licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-s
 | --- | --- | --- | --- |
 | 02/01/2021 | Document origination | Information Security Policy | Jerry Shaffer, Senior Project Manager |
 | 02/03/2021 | Document reviewed, HITRUST requirement updates made | Revised for HITRUST alignment to v9.3 | Jerry Shaffer, Senior Project Manager |
-| 08/30/2022 | Added New Section 15.1 Moved prior sections 15.1 and 15.2 to Sections 15.2 and 15.3, respectively | Addresses Security Issue discovered in Client’s environment | Jerry Shaffer, Senior Project Manager |
+| 08/30/2022 | Added New Section 15.1 and moved prior sections 15.1 and 15.2 to Sections 15.2 and 15.3, respectively | Addresses Security Issue discovered in Client’s environment | Jerry Shaffer, Senior Project Manager |
 
 ### **PURPOSE** 
 This Security Policy is intended to provide management direction and defines what is expected with respect to Information Security within Cloudticity (&quot;company&quot;).  The overall objective is to control and/or guide human behavior to reduce the risk to information assets by accidental or deliberate actions.  This policy, as well as all policies, standards, and guidelines are designed to secure access to and use of information assets owned, operated, or provided by the company and all its clients.
@@ -203,7 +203,7 @@ A breach of standards, procedures, and/or guidelines established in support of t
 
 [**15 Incident Management (Domain 15)**](#15-Incident-Management-Domain-15)
 
->[**15.1 Client Security Issue**](#151-Client-Security-Response)
+>[**15.1 Client Security Issue**](#151-Client-Security-Issue)
 
 >[**15.2 Security Incident Response**](#152-Security-Incident-Response)
 
