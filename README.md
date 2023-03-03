@@ -30,7 +30,8 @@ Policy is licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-s
 | --- | --- | --- | --- |
 | 02/01/2021 | Document origination | Information Security Policy | Jerry Shaffer, Senior Project Manager |
 | 02/03/2021 | Document reviewed, HITRUST requirement updates made | Revised for HITRUST alignment to v9.3 | Jerry Shaffer, Senior Project Manager |
-| 08/30/2021 | Added New Section 15.1 and moved prior sections 15.1 and 15.2 to Sections 15.2 and 15.3, respectively | Addresses Security Issue discovered in Client’s environment | Jerry Shaffer, Senior Project Manager |
+| 08/30/2022 | Added New Section 15.1 and moved prior sections 15.1 and 15.2 to Sections 15.2 and 15.3, respectively | Addresses Security Issue discovered in Client’s environment | Jerry Shaffer, Senior Project Manager |
+| 02/23/2023 | Updated policy to meet requirements of HITRUST v9.6 | Jerry Shaffer, Senior Project Manager |
 
 ### **PURPOSE** 
 This Security Policy is intended to provide management direction and defines what is expected with respect to Information Security within Cloudticity (&quot;company&quot;).  The overall objective is to control and/or guide human behavior to reduce the risk to information assets by accidental or deliberate actions.  This policy, as well as all policies, standards, and guidelines are designed to secure access to and use of information assets owned, operated, or provided by the company and all its clients.
@@ -284,6 +285,8 @@ The results of such independent ISMP reviews will be recorded and reported to th
 
 If the independent reviews identify that Cloudticity&#39;s approach and implementation to managing information security is inadequate or not compliant with the direction for information security stated within the ISMP Policy, management will take corrective action (0179.05h1Organizational.4).
 
+Cloudticity considers applicable state and federal law with regard to information exchanged in the notification process with business partners, vendors, and other applicable third-parties.
+
   
 ## 1.5 Capital Planning
 
@@ -295,6 +298,20 @@ The information security capital planning and investment plan (budget) will incl
 ## 1.6 Risk Management
 
 Cloudticity shall ensure that plans for security testing, training and monitoring activities are developed, implemented, maintained and reviewed for consistency within the Risk Management Program (0108.02d1Organizational.23).
+
+Cloudticity employs an information sharing mechanism to communicate security information, nonconformities, and lessons learned to senior management. (0128.05b2Organizational.126)
+
+Cloudticity security plans that meet applicable federal or leading practice requirements are developed for information systems, periodically reviewed, and communicated to relevant stakeholders.(0129.05b2Organizational.3)
+
+Cloudticity has an HR representative as a single point of contact for performing the screening process on applicants, assigns a risk designation to all positions and establishes criteria for the individuals filling the positions, and develops standard criteria for screening of all applicants. (0142.02b2Organizational.1234)
+
+Applicants are screened in accordance with applicable regional policies/procedures for health screening, drug screening, motor vehicle driving record (in accordance with job requirements), and criminal background checks. (0143.02b2Organizational.56)
+
+Cloudticity rescreens individuals periodically, consistent with the criticality/sensitivity rating of the position; revalidates the level of access (clearance) when an employee moves from one position to another; and, if there has been a long gap—at a minimum five years—between recruitment and the date of the employee starting, the organization repeats the screening process, or its key elements. (0144.02b2Organizational.79)
+
+Cloudticity considers applicable state and federal law with regard to information exchanged in the notification process with business partners, vendors, and other applicable third-parties. (0145.02b2Organizational.8)
+
+The terms and conditions of employment reflect Clouticity’s security policy, ensure that all workforce members who are given access to covered information sign a confidentiality or non-disclosure agreement prior to being given access to information assets, and advise workforce members of their responsibilities and rights and any actions that may be taken if they disregard the organization's security requirements; and that conditions relating to the security policy survive the completion of the employment in perpetuity.(0150.02c1Organizational.1)
 
   
 ## 1.7 Security Roles and Responsibilities
@@ -313,12 +330,38 @@ The pre-employment process shall be reviewed by recruitment to ensure security r
 
 Risk designations shall be assigned for all positions within Cloudticity as appropriate, with commensurate screening criteria, and reviewed/revised every three hundred and sixty-five (365) days (0105.02a2Organizational.1).
 
+Cloudticity develops and documents access agreements for organizational systems, and privileges are not be granted until the employee accepts/signs the agreement AND the terms and conditions have been satisfied. (0151.02c1Organizational.23)
+
+Cloudticity distributes copies of the information systems security plan, communicates changes, and protects the plan from unauthorized disclosure and modification. (0167.05b2Organizational.4)
+
+Security plans are reviewed at least every three years (prior to the plans expiration), when changes are made to the information system or information protection requirements, or when incidents occur that impact the plans' validity. (0168.05b2Organizational.5)
+
+Cloudticity identifies, by name or position, non-professional or professional security contacts in each major organizational area or business unit; and clearly defines the roles, responsibilities, and authority of each security contact, including the administration and implementation of the organization's security programs. (0174.05c2Organizational.12345)
+
+Cloudticity ensures local responsibilities for the protection of assets and for carrying out specific security processes, such as business continuity planning, are clearly defined. (0175.05c2Organizational.67)
+
+Asset owners are responsible for ensuring that the assets associated with information processing systems are appropriately classified; and for defining and periodically (at a minimum, annually) reviewing access restrictions and classifications, taking into account applicable access control policies. (0184.07b2Organizational.1)
+
+All information and assets associated with information processing systems have an information owner or owners established within a designated line of business or other part of the organization based on a business process, a defined set of activities, an application, or a defined set of data. (0185.07b2Organizational.24)
+
+Cloudticity ensures that appropriate software licensing agreements for software used by the organization's employees are in place, and that the organization is in compliance with those agreements. (0186.07b2Organizational.3)
+
+The information owner(s) is(are) assigned a minimum set of specific responsibilities. (0187.07b2Organizational.5)
+
+When a person designated as information asset owner no longer has the responsibility due to departure, transfer, or reassignment, the organization appoints a new information owner in a timely manner to ensure no lapse in accountability and responsibility. (0188.07b2Organizational.6)
+
   
 ## 1.8 Policy Management
 
 ISMP Security Policy (this document) must always present the Cloudticity CTO&#39;s policy direction to be in line with business objectives and demonstrate management&#39;s support for, and commitment to, Information Security across the supported Cloudticity systems. The leaders responsible for the execution of the functional topics addressed in this policy must annually review and approve those sections of this policy. These reviews must be documented.
 
 Cloudticity&#39;s Information Security Policy shall be regularly reviewed and updated to ensure they reflect leading practices (e.g., for systems and services development and acquisition), and all reviews/changes will be communicated throughout the company (0114.04b1Organizational.1).
+
+Cloudticity prepares documented procedures for system activities associated with information and communication assets. (0191.09a1System.1)
+
+Cloudticity specifies detailed instructions for the execution of each job in its operating procedures. (0192.09a1System.2)
+
+Operating procedures and the documented procedures for system activities are treated as formal documents, and changes are authorized by management. (0193.09a1System.3)
 
   
 ## 1.9 Policy Sanctions and Acceptable Use
@@ -366,6 +409,10 @@ Cloudticity shall implement and regularly update mobile code protection, includi
 User functionality (including user interface services [e.g., Web services]) shall be separated from information system management functionality (e.g., database management systems) (0208.09j2Organizational.7).
 
 Rules for the migration of software from development to operational status will be defined and documented by the affected application(s) owners. Development, test, and operational systems will be separated (physically or virtually) to reduce the risks of unauthorized access, malware infections or changes to the operational system (0228.09k2Organizational.3).
+
+All users are made aware of the security requirements and procedures, and their responsibility for protecting unattended equipment. (0210.01g1Organizational.1)
+
+Cloudticity safeguards information system output devices (e.g., printers) to help prevent unauthorized individuals from obtaining the output. (0211.01g1Organizational.2)
 
 
 # 3 Portable Media Security (Domain 3)
@@ -450,7 +497,24 @@ All changes to production systems, networks and network services must follow a f
 
 Changes to equipment, software and procedures will be strictly and consistently managed (0619.09b2System.12).
 
+The level of separation between operational, test, and development environments is identified and controls are implemented to prevent operational issues. (0622.09d2System.1)
+  1. Along with removing accounts, a review of all custom code preceding the release to production, or to customers, must be completed in order to identify any possible coding vulnerability, to include at least the following: 
+    • code changes are reviewed by individuals other than the originating code author, and by individuals knowledgeable about code-review techniques and secure coding practices, 
+    • code reviews ensure code is developed according to secure coding guidelines, 
+appropriate corrections are implemented prior to release, and 
+    • code-review results are reviewed and approved by management prior to release; 
+  2. Test data and accounts are removed completely before the application is placed into a production state; 
+  3. Cloudticity removes all custom application accounts, user IDs, and passwords before applications go from development to production or are released to customers; 
+  4. Rules for the transfer of software from development to operational status are defined and documented; 
+  5. Development and operational software runs on different systems or computer processors and in different domains or directories; 
+  6. Compilers, editors, and other development tools or system utilities are not accessible from operational systems when not required; 
+  7. The test system environment emulates the operational system environment as closely as possible; 
+  8. Users will use different user profiles for operational and test systems, and menus display appropriate identification messages to reduce the risk of error; and, 
+  9. Covered information will not be copied into the test system environment. Further, review of test data used and configuration of testing and production environments may be performed to ensure that controls are implemented to ensure the separation between operational, test, and development environments. 
+
 Only authorized administrators will be allowed to implement approved upgrades to software, applications, and program libraries, based on business requirements and the security implications of the release (0605.10h1System.12).
+
+Cloudticity employs integrity verification tools to detect unauthorized, security-relevant configuration changes to software and information. Verify that integrity verification tools (e.g., parity checks, cyclical redundancy checks, cryptographic hashes) and associated tools have been implemented to automatically monitor the integrity of information systems and hosted applications. (0625.10c2System.8)
 
 Managers responsible for application systems will also be responsible for the strict control (security) of the project or support environment and ensure that all proposed system changes are reviewed to check that they do not compromise the security of either the system or the operating environment (0635.10k1Organizational.12).
 
@@ -492,6 +556,12 @@ Cloudticity shall use a configuration control program to maintain control of all
 
 Where development is outsourced, change control procedures shall be developed to address security that will be included in the contract(s) and specifically require the developer to track security flaws and flaw resolution within the system, component, or service and report findings to company-defined personnel or roles (0640.10k2Organizational.1012).
 
+Where possible  an industry-recognized virtualization platform and standard virtualization formats to help ensure interoperability, and has documented custom changes made to any hypervisor in use and all solution-specific virtualization hooks available for customer review. (0662.09sCSPOrganizational.2)
+
+Open and published APIs will be used to ensure support for interoperability between components and to facilitate migrating applications. (0669.10hCSPSystem.1)
+
+Structured and unstructured data is available to the organization (customer) and provided to them upon request in an industry-standard format (e.g., .docx, .xlsx, pdf, logs, and flat files). (0670.10hCSPSystem.2)
+
 
 # 7 Vulnerability Management (Domain 7)
 
@@ -517,6 +587,10 @@ The company will create and document the process/procedure the company intends t
 The company shall employ automated mechanisms to scan the network, no less than weekly, to detect the presence of unauthorized components/devices (including hardware, firmware and software) in the environment; and disables network access by such components/devices or notify designated organizational officials (0724.07a3Organizational.4).
 
 The information system must check the validity of company-defined information inputs for accuracy, completeness, validity, and authenticity as close to the point of origin as possible. For in-house developed software, the company ensures that explicit error checking is performed and documented for all input, including for size, data type, and acceptable ranges or formats (0733.10b2System.4).
+
+Cloudticity documents the attempts to obtain information system documentation (logs) when such documentation is either unavailable or non-existent. (0730.09r1Organizational.1)
+
+The organization protects system documentation in accordance with the organization's risk management strategy and distributes documentation to organization-defined personnel with the need for such documentation. (0731.09r1Organizational.2) 
 
   
 ## 7.2 Hardening
@@ -582,6 +656,10 @@ Procedures, guidelines, and standards for the development of applications must b
 Cloudticity shall keep up to date and current diagrams which include all networks including wireless networks, system architecture, and data flow diagrams. Diagrams shall be updated whenever there are network changes and no less than every six months (0819.09m1Organizational.23).
 
 The impact of the loss of network service to the business must be defined (0824.09m3Organizational.1). Formal agreements with external information system providers shall include specific obligations for security and privacy (0837.09n2Organizational.2). Agreed services provided by a network service provider/manager will be formally managed and monitored to ensure they are provided securely (0835.09n1Organizational.1).
+
+Cloudticity specifies the networks and network services to which users are authorized access. (0801.01i1Organizational.1)
+
+Business-critical or customer (tenant) impacting (physical and virtual) application and interface designs (API), configurations, network infrastructure, and systems components, are designed, developed, and deployed in accordance with mutually agreed-upon service and capacity-level expectations, as well as IT governance and service management policies and procedures.  (08102.09nCSPOrganizational.1)
 
   
 ## 8.2 Network Segmentation
@@ -685,6 +763,21 @@ Data involved in electronic commerce and online transactions must be checked to 
 
 Security will be maintained through all aspects of the transaction (0944.09y1Organizational.2).
 
+Security will be maintained through all aspects of the transaction (0944.09y1Organizational.2).]
+
+Cloudticity authorizes, approves, and documents connections of defined internal information system components or classes of components to the information system. (0934.09w2Organizational.12)
+
+Interconnected business information systems are linked to other requirements and controls. Specificly Confirm that the following have been defined and documented: (i) the separation of operational systems from interconnected systems; (ii) the retention and backup of information held on the system; and, (iii) the fallback requirements and arrangements. This control applies to connections between organizational information systems and (separate) constituent system components (i.e., intra-system connections) including, for example, system connections with mobile devices, notebook/desktop computers, printers, copiers, facsimile machines, scanners, sensors, and servers. Instead of authorizing each individual internal connection, organizations can authorize internal connections for a class of components with common characteristics and/or configurations, for example, all digital printers, scanners, and copiers with a specified processing, storage, and transmission capability or all smart phones with a specific baseline configuration. (0935.09w2Organizational.3)
+
+A firewall's physical and logical configuration is established to restrict connections between untrusted networks and systems storing, processing, or transmitting covered information.(0937.09w2Organizational.5)
+
+The information system provides mechanisms to protect the authenticity of communication sessions. Session, versus packet level (e.g., sessions in service-oriented architectures providing Web-based services) and establishes grounds for confidence at both ends of communications sessions in ongoing identities of other parties and in the validity of information transmitted  (0954.10d1System.1
+
+Cryptographic controls are implemented to ensure message authentication and integrity for covered information applications. Encryption (e.g., TLS, digital signatures, cryptographic hashes) has been implemented to ensure message authentication and integrity. For the cryptographic hashes implemented, confirm that either HMAC-SHA-1 or HMAC-MD5 or greater will be implemented.
+(0955.10d1System.2)
+
+As a Cloud service providers Cloudticity will use secure (e.g., non-clear text and authenticated) standardized network protocols for the import and export of data and to manage the service, and make available a document to consumers (tenants) detailing the relevant interoperability and portability standards that are involved. For each customer or each customer, confirm the provider is conforming to the standardized network protocol will be specified. (0960.09sCSPOrganizational.1)
+
   
 ## 9.2 Remote Access
 
@@ -704,6 +797,16 @@ Stronger controls will be implemented to protect certain electronic messages. El
 Unencrypted sensitive information shall never be sent through end-user messaging technologies such as email, instant messaging, and chat (0929.09v1Organizational.6). Protocols used to communicate between all involved parties will be secured using cryptographic techniques such as SSL/TLS (0945.09y1Organizational.3).
 
 The company must use FIPS-validated cryptographic mechanisms during transmission to prevent unauthorized disclosure of information and detect changes to information unless otherwise protected by company-defined alternative physical measures (099.09m2Organizational.11). All data transmission is encrypted end to end using encryption keys managed by Cloudticity, in conjunction with AWS.
+
+A formal key management system is defined and implemented consistent with federal and industry-recognized guidelines to securely manage secret/private keys and public keys issued by trusted Certification Authorities. Cloudticity will ensure the  authenticity of public keys using public key certificates issued by a trusted certification authority (e.g., VeriSign, GeoTrust, Comodo, GoDaddy, Thawte, DigiCert). (0906.10g2Organizational.13)
+
+Keys are limited to a period of time, per the manufacturer's recommendations or not to exceed one year. (0907.10g2Organizational.2)
+
+Keys are limited to a period of time, per the manufacturer's recommendations or not to exceed one year.(0908.10g2Organizational.4)
+
+Specific mechanisms are in place to recover information in the event encryption keys are lost. (0908.10g2Organizational.4)
+
+Interconnected business information systems are linked to other requirements and controls. A baseline is established for basic security hygiene in interconnected systems. (0935.09w2Organizational.3) (0936.09w2Organizational.4)
 
   
 ## 9.4 Electronic Signatures
@@ -1095,6 +1198,8 @@ The sanctions program will ensure individuals are held accountable and responsib
   
 ## 16.1 Business Continuity
 
+The organization brings together additional key information security elements of business continuity management, which include: (i) identifying critical information system assets supporting organizational missions and functions; (ii) understanding the risks the organization is facing in terms of likelihood and impact in time, including an identification and prioritization of critical business processes; (iii) understanding the impact which interruptions caused by information security incidents are likely to have on the business (it is important that solutions are found that will handle incidents causing smaller impact, as well as serious incidents that could threaten the viability of the organization), and establishing the business objectives of information assets; (iv) implementing additional preventive detective controls for the critical assets identified to mitigate risks to the greatest extent possible; (v) identifying financial, organizational, technical, and environmental resources to address the identified information security requirements; (vi) testing and updating, at a minimum, a section of the plans and processes put in place at least annually; (vii) ensuring that the management of business continuity is incorporated in the organization's processes and structure; and, (viii) assigning responsibility for the business continuity management process at an appropriate level within the organization (1633.12a2Organizational.1).
+
 The business contingency program shall address required capacity, identify critical missions and business functions, define recovery objectives and priorities, and identify roles and responsibilities (1602.12c1Organizational.4567, 1634.12b1Organizational.1).
 
 The business continuity program will be (i) based on identifying events (or sequence of events) that can cause interruptions to the company&#39;s critical business processes (e.g., equipment failure, human errors, theft, fire, natural disasters acts of terrorism); (ii) followed by a risk assessment to determine the probability and impact of such interruptions, in terms of time, damage scale and recovery period; (iii) based on the results of the risk assessment, a business continuity strategy is developed to identify the overall approach to business continuity; and (iv) once this strategy has been created, endorsement is provided by management, and a plan created and endorsed to implement this strategy (1635.12b1Organizational.2).
@@ -1110,6 +1215,8 @@ Emergency procedures, manual &quot;fallback&quot; procedures, and resumption pla
 Copies of the business continuity plans will be distributed to key contingency personnel (1603.12c1Organizational.9) and shall be stored in a remote location (1608.12c2Organizational.5).
 
 When new requirements are identified, any existing emergency procedures (e.g., evacuation plans or fallback arrangements) will be amended as appropriate (1667.12d1Organizational.4).
+
+A variety of techniques are used in order to provide assurance that the business continuity plan(s) will operate in real life. (1680.12e2Organizational.2)  Cloudticity DR Process describes the variety of techniques available.
 
   
 ## 16.2 Disaster Recovery
